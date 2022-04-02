@@ -307,13 +307,13 @@ progressbar {
 
 progressbar.horizontal trough,
 progressbar.horizontal progress {
-	min-height: 16px;
+	min-height: 10px;
 	border-radius: 3px;
 }
 
 progressbar.vertical trough,
 progressbar.vertical progress {
-	min-width: 16px;
+	min-width: 10px;
 	border-radius: 3px;
 }
 
@@ -344,7 +344,7 @@ row:selected:focus progressbar progress {
 	border-width: 1px;
 	border-style: solid;
 	border-color: @progressbar_border_color;
-	min-height: 16px;
+	min-height: 10px;
 	margin: 0 -1px 0 -1px;
 }
 
