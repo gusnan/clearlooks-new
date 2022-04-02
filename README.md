@@ -1,5 +1,7 @@
 ## Overview
 
+Clearlooks-New is a small continuation of Clearlooks-Phenix, which is a GTK3 port of Clearlooks. It is mostly made for my personal usage, and contains fixes for the errors that sticks out most that I have ran into under my usage.
+
 The Clearlooks-Phénix project aims at creating a GTK3 port of Clearlooks, the default theme for Gnome 2. Style is also included for GTK2, Unity and for Metacity, Openbox and Xfwm4 window managers.
 
 Here are screenshots (if applicable, click to see the original image):
