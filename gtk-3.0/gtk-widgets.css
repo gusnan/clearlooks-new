@@ -617,9 +617,9 @@ button:hover {
 	border-color: @theme_selected_bg_color;
 }
 
-button:disabled,
-button:active:disabled {
-	color: @insensitive_fg_color;
+GtkMenuToolButton *,
+toolbar button:disabled {
+	opacity: 0.4;
 }
 
 /* Focused primary toolbar button background */
