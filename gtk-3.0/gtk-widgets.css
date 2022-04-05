@@ -496,6 +496,14 @@ frame > label {
 	padding: 0px 4px 0px 4px;
 }
 
+
+scrolledwindow
+{
+	border-color: @border_color;
+	border-width: 1px;
+	border-style: solid;
+}
+
 scrolledwindow frame {
 	border-style: solid;
 	border-color: @border_color;
