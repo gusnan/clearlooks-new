@@ -502,6 +502,7 @@ scrolledwindow
 	border-color: @border_color;
 	border-width: 1px;
 	border-style: solid;
+	background-color: @theme_base_color;
 }
 
 scrolledwindow frame {
